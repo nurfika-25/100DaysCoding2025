@@ -11,9 +11,10 @@ public class fikaaa {
         System.out.printf("\n hobi saya \t\t:" + hobi );
         System.out.printf("\n umur saya  \t\t:" + 18 );
         System.out.println("");
-//        escape squence "\n" digunakan ketika kita ingin memakai 
-//        satu sout saja tetapi ingin dijadikan garis baru.
-//        sedangkan escape squence "\t" digunakan untuk tab atau 
-//        untuk merapihkan dan mensejajarkan baris inputan yang berantakan.
+        
+//   escape squence "\n" digunakan ketika kita ingin memakai 
+//   satu sout saja tetapi ingin dijadikan garis baru.
+//   sedangkan escape squence "\t" digunakan untuk tab atau 
+//   untuk merapihkan dan mensejajarkan baris inputan yang berantakan.
     }
     }
