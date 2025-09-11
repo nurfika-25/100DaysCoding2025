@@ -6,9 +6,9 @@ public class fikaaa {
         hobi ="nonton drakor dan membaca";
         int umur = 18;
         
-        System.out.printf("\n nama saya \t\t:" + nama);
-        System.out.printf("\n alamat saya di \t:" + alamat );
-        System.out.printf("\n hobi saya \t\t:" + hobi );
+        System.out.printf("\n nama saya \t\t: %s" , nama);
+        System.out.printf("\n alamat saya di \t:%s", alamat );
+        System.out.printf("\n hobi saya \t\t:%s", hobi );
         System.out.printf("\n umur saya  \t\t:" + 18 );
         System.out.println("");
         
