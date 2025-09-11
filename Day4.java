@@ -9,7 +9,7 @@ public class fikaaa {
         System.out.printf("\n nama saya \t\t: %s" , nama);
         System.out.printf("\n alamat saya di \t:%s", alamat );
         System.out.printf("\n hobi saya \t\t:%s", hobi );
-        System.out.printf("\n umur saya  \t\t:" + 18 );
+        System.out.printf("\n umur saya  \t\t:%s" , 18 );
         System.out.println("");
     
 //  escape squence "\n" digunakan ketika kita ingin memakai 
