@@ -6,7 +6,7 @@ public class fika {
 // String nama,nim,kelas,prodi,day coding,alamat,asal sekolah;
         String nama = "Nurfika Rusdi";
         String nim = "D0225006";
-        String prodi = "Iformatika A";
+        String prodi = "Iformatika";
         String DayNgoding = "day8";
         String AsalSekolah = "SMAN 2 MAJENE";
         String alamat = "Katitting";
