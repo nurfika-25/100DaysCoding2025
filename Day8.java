@@ -1,3 +1,6 @@
+public class fika {
+    public static void main(String[] args) {
+        
 //String merupakan tipe data non-primitif
 //String bisa digunakan untuk teks maupun angka selama masih di dalam tanda petik dua.
 // String nama,nim,kelas,prodi,day coding,alamat,asal sekolah;
@@ -7,7 +10,6 @@
         String DayNgoding = "day8";
         String AsalSekolah = "SMAN 2 MAJENE";
         String alamat = "Katitting";
-
         System.out.println("Perkenalkan nama saya\t: "+nama);
         System.out.println("NIM saya\t\t: "+nim);
         System.out.println("Saya berasan dari prodi: "+prodi);
