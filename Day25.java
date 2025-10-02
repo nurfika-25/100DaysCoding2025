@@ -2,11 +2,14 @@ import java.util.Scanner;
 public class fika123 {
     public static void main(String[] args) {
        Scanner in = new Scanner(System.in);
-       int fi = 5;       
+        System.out.println("Masukkan angka increment: ");
+        int fi = in.nextInt();
+        System.out.println("Masukkan angka decrement: "); 
+        int saa= in.nextInt();
         fi++;
-        System.out.println("Hasil increment: "+fi);
-        fi--;
-        System.out.println("Hasil Decrement: "+fi); //Hasil nya akan kembali ke nilai inisialisasi awal 
-
+        saa --;
+        System.out.println("Hasil dari increment: "+fi); //Hasilnya akan menambah 1 value dari nilai variabel fi
+        System.out.println("Hasil dari Decrement: "+saa); //Hasilnya akan mengurangi 1 value dari nilai variabel saaa
+        System.out.println("");
     }
 }
