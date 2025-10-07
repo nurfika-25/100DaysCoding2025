@@ -7,7 +7,7 @@ public class fika123 {
         System.out.print("Masukkan angka: ");
         int y = in.nextInt();        
         System.out.println("Apakah nilai x sama dengan y? :"+(x==y));
-        System.out.println("Apakah nilai y tidak sama dengan y? :"+(x!=y));
+        System.out.println("Apakah nilai x tidak sama dengan y? :"+(x!=y));
         
     }
 }
