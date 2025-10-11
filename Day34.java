@@ -8,7 +8,7 @@ public class fikaayo {
         int b= in.nextInt();
         if (a >= 85 && b>= 80){
             System.out.println("Selamat, anda lulus");
-        }else if (a >=70 || b >=70){
+        }else if (a >=70 || b >=65){
             System.out.println("Maaf, anda belum lulus");
         }else {
             System.out.println("Persiapkan diri anda kembali di tahun depan");
