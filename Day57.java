@@ -1,11 +1,10 @@
-public class NewClass {
-    public static void main(String[] args) {
-        for (int i = 1; i <= 5; i++) {
-            for (int j = 1; j <= 5; j++) {
-                System.out.print((i * j) + "\t");
+public static void main(String[] args) {
+        for (int saa = 1; saa <= 5; saa++) {
+            for (int fi = 1; fi <= 5; fi++) {
+                System.out.print((saa * fi) + "\t");
             }
             System.out.println();
         }
     }
 }
-   
+  
