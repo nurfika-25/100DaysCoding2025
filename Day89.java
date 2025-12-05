@@ -4,10 +4,13 @@ public class MetodAsdos {
     public static void main(String[] args) {
         fika();
     }
+
     static void fika() {
         String nama = "Fika";
-        System.out.print("Nama saya adalah: ");
+        int umur = 18;
+        System.out.print("Nama saya adalah: " + nama);
 
-        System.out.print("Umur saya: ");
+        System.out.print("Umur saya: " + umur);
+
     }
 }
